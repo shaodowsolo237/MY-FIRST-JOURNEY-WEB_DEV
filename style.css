@@ -1,0 +1,28 @@
+header{
+    background-color: bisque;
+    color:blue;
+    padding:50px 30px;
+    border-bottom: 2px solid lightblue;
+    border-radius: 7px;
+    font-family: arial;
+    margin:30px auto;
+    text-align:center;
+    box-shadow:6px 4px 7px rgb(30, 34, 36); 
+   
+}
+
+header nav ul li a:hover{
+    color:black;
+}
+
+main{
+    width: 80%;
+    margin:20% auto;
+    padding:50px;
+    background-color:#f9f9f9;
+    border-radius:6px;
+    box-shadow: 6px -5px 8px gray;
+    font-family:impact;
+    font-size:20px;
+    color:#333;
+}
